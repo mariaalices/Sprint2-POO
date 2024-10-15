@@ -14,7 +14,11 @@ O grupo deverá fazer uma nova análise na problemática abordada e identificar:
 GRUPO: 
 
 Bruna Oliveira Gomes                 RM: 553135
+
 Carlos Eduardo Martins Freire        RM: 552611
+
 Maria Alice Sousa Santos             RM: 552717
+
 Thaís Mari Costa Lopes               RM: 553620
+
 Rickson Shiniti Hirata               RM: 553921
